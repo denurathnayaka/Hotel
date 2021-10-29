@@ -3,7 +3,7 @@
  * Copyright 2017 Mobirise
  */
 section {
-  background-color: #eeeeee; }
+  background-color: #cf5151; }
 
 section,
 .container,
@@ -44,7 +44,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   position: relative;
   border-left: 2px solid;
-  border-color: #ff3366; }
+  border-color: #884455; }
 
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
   transition-delay: 9999s;
